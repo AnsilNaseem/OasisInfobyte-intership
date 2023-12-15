@@ -4,7 +4,7 @@
 
 <a href="https://drive.google.com/file/u/0/d/17OYaUrutJ9efsXvj6zZfeobcs3XKOrcg/view?usp=drivesdk&pli=1">Internship Offer Letter </a>
 
-<a href="https://www.linkedin.com/pulse/exploring-horizons-data-science-from-iris-flower-trends-ansil-naseem-xpvnc)https://www.linkedin.com/pulse/exploring-horizons-data-science-from-iris-flower-trends-ansil-naseem-xpvnc">Linkedin Article </a>
+<a href="https://www.linkedin.com/pulse/exploring-horizons-data-science-from-iris-flower-trends-ansil-naseem-xpvnc">Linkedin Article </a>
 
 ### Task 1 
 ## IRIS FLOWER CLASSIFICATION
