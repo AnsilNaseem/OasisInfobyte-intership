@@ -12,7 +12,7 @@ Problem Statement:
 
 Iris flower has three species; setosa, versicolor, and virginica, which differs according to their measurements. Now assume that you have the measurements of the iris flowers according to their species, and here your task is to train a machine learning model that can learn from the measurements of the iris species and classify them. 
 
-<a href="https://colab.research.google.com/github.com/AnsilNaseem/OasisInfobyte-intership/blob/main/Task%201%20-%20Iris%20classification/iris_flower_classification.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href="https://colab.research.google.com/github/AnsilNaseem/OasisInfobyte-intership/blob/main/Task%201%20-%20Iris%20classification/iris_flower_classification.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ---
 
