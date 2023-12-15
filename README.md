@@ -1,6 +1,6 @@
 # Oasis Infobyte - Data Science Internship Tasks (Nov P2 - 2023 Batch)
 ## Repo containing 4 Tasks for AICTE OIB-SIP - Oasis Infobyte - Data Science Internship Tasks
-![16425325971](https://github.com/AnsilNaseem/OasisInfobyte-intership/blob/main/1_eGL7fT6e9wltmwt1BSQlPg~2.jpg)
+![banner](https://github.com/AnsilNaseem/OasisInfobyte-intership/blob/main/banner.jpg)
 
 <a href="https://drive.google.com/file/u/0/d/17OYaUrutJ9efsXvj6zZfeobcs3XKOrcg/view?usp=drivesdk&pli=1">Internship Offer Letter </a>
 
